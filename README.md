@@ -12,7 +12,6 @@ The system integrates a **screen and speaker alarm** to deliver both visual and 
 - **Magnetic door sensor** to trigger events when the door opens.  
 - **Speaker & screen alerts** for immediate user feedback.  
 - **Embedded design on Raspberry Pi Pico** for reliable, low-power operation.  
-- **Battery conservation techniques** such as dynamic clock frequency adjustment using Phase-Locked Loops (PLLs).  
 
 ---
 
