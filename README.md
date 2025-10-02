@@ -7,6 +7,13 @@ The system integrates a **screen and speaker alarm** to deliver both visual and 
 
 ---
 
+## Demo Video
+**Click on Image Below to Watch**
+
+[![Watch the demo](demo/HoopBetzDemoThumbnail.png)]([https://youtu.be/3cQdmrw7UJ8](https://youtu.be/QnvRQJowsJ8))
+
+---
+
 ## ⚡ Features
 - **Real-time item detection** using a photoresistor tray sensor.  
 - **Magnetic door sensor** to trigger events when the door opens.  
