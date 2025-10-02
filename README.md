@@ -10,7 +10,7 @@ The system integrates a **screen and speaker alarm** to deliver both visual and 
 ## Demo Video
 **Click on Image Below to Watch**
 
-[![Watch the demo](thumbnail.png)]([https://youtu.be/3cQdmrw7UJ8](https://youtu.be/QnvRQJowsJ8))
+[![Watch the demo](thumbnail.png)](https://youtu.be/QnvRQJowsJ8))
 
 ---
 
