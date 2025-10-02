@@ -1,9 +1,17 @@
 # Forget Me Not – Smart Item Reminder System
 
-## 📖 Overview
-**Forget Me Not** is an embedded smart reminder system designed to prevent you from forgetting essential items (like your wallet, keys, or phone) when leaving your home. Using a **Raspberry Pi Pico**, magnetic door sensors, and a photoresistor-based tray detection system, the device raises an alarm if items remain on the tray when the door is opened.  
+# Forget Me Not – Smart Item Reminder System
 
-The system integrates a **screen and speaker alarm** to deliver both visual and audible notifications, ensuring users never leave without their essentials.
+## 📖 Overview
+**Forget Me Not** is an embedded smart reminder system designed to prevent you from forgetting essential items (like your wallet, keys, or phone) when leaving your home.  
+
+You place your item on the tray, and when you open the door to leave, the system checks:  
+- If the item is still on the tray → the screen flashes and the speaker sounds an alarm to remind you to take it.  
+- If the tray is empty (meaning you already picked up your item) → nothing happens and you can leave as normal.  
+
+This way, the system prevents you from forgetting essentials before walking out the door.  
+
+Under the hood, the system uses a **Raspberry Pi Pico**, a **magnetic door sensor**, and a **photoresistor-based tray sensor**. When the door opens, these inputs are processed in real time to determine whether to trigger an alarm. The design also integrates **Phase-Locked Loops (PLLs)** to lower the clock frequency when full performance isn’t needed, reducing power draw and extending battery life.  
 
 ---
 
