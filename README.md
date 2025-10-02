@@ -1,7 +1,5 @@
 # Forget Me Not – Smart Item Reminder System
 
-# Forget Me Not – Smart Item Reminder System
-
 ## 📖 Overview
 **Forget Me Not** is an embedded smart reminder system designed to prevent you from forgetting essential items (like your wallet, keys, or phone) when leaving your home.  
 
